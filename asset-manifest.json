@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/luke-test/static/css/main.565e5985.chunk.css",
+    "main.css": "/luke-test/static/css/main.02b7d122.chunk.css",
     "main.js": "/luke-test/static/js/main.9e465142.chunk.js",
     "main.js.map": "/luke-test/static/js/main.9e465142.chunk.js.map",
     "runtime-main.js": "/luke-test/static/js/runtime-main.a0eff03f.js",
@@ -10,7 +10,7 @@
     "static/js/2.de63082c.chunk.js.map": "/luke-test/static/js/2.de63082c.chunk.js.map",
     "index.html": "/luke-test/index.html",
     "static/css/2.95ff951f.chunk.css.map": "/luke-test/static/css/2.95ff951f.chunk.css.map",
-    "static/css/main.565e5985.chunk.css.map": "/luke-test/static/css/main.565e5985.chunk.css.map",
+    "static/css/main.02b7d122.chunk.css.map": "/luke-test/static/css/main.02b7d122.chunk.css.map",
     "static/js/2.de63082c.chunk.js.LICENSE.txt": "/luke-test/static/js/2.de63082c.chunk.js.LICENSE.txt",
     "static/media/appstore.1f5549cd.svg": "/luke-test/static/media/appstore.1f5549cd.svg",
     "static/media/facebook.7eeb5e9d.svg": "/luke-test/static/media/facebook.7eeb5e9d.svg",
@@ -38,7 +38,7 @@
     "static/js/runtime-main.a0eff03f.js",
     "static/css/2.95ff951f.chunk.css",
     "static/js/2.de63082c.chunk.js",
-    "static/css/main.565e5985.chunk.css",
+    "static/css/main.02b7d122.chunk.css",
     "static/js/main.9e465142.chunk.js"
   ]
 }
