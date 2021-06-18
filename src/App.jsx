@@ -1,8 +1,17 @@
 import React from 'react'
+import 'materialize-css'
+import { NavBar, Intro, Features, Panel, ContactUs, Footer } from './Components'
 
 const App = () => {
   return (
-    <h1>HOLA</h1>
+    <div>
+      <NavBar />
+      <Intro />
+      <Features />
+      <Panel />
+      <ContactUs />
+      <Footer />
+    </div>
   )
 }
 
